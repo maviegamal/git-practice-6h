@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Footer changed to green 
+=======
+Footer changed to blue 
+>>>>>>> conflict/demo
