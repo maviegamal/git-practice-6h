@@ -1,1 +1,1 @@
-Improve app header styling
+Add footer header to application
