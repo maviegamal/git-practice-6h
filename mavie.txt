@@ -1,1 +1,2 @@
 Add footer header to application
+Add search functionality
